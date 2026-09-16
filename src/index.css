@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  background-color: #000; /* Dark hacker vibe default */
+  color: #fff;
+}
